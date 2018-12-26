@@ -1,0 +1,10 @@
+nmcli install network-manager
+NetworkManager start might be necessary
+
+nmcli d  "returns wifi interface
+
+nmcli r wifi on "obvious
+
+nmcli d wifi list "available networks
+
+nmcli d wifi connect <name> password <password>

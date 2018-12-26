@@ -1,0 +1,9 @@
+download package acpi for battery info
+
+acpi -V "verbose
+acpi "just battery
+acpi -a "adapter info
+acpi -t "thermal info
+
+saving changes to a read only file in vim
+:w !sudo tee %
